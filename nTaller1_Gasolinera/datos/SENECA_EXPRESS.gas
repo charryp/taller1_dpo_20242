@@ -1,0 +1,13 @@
+tipo:CORRIENTE:200:1000000.0
+tipo:URANIO RADIOACTIVO:900000:1.0
+tipo:SENECA:500:30000.0
+tipo:EXTRA:300:10000.0
+surtidor:Vaqui campito:CORRIENTE:0.0:URANIO RADIOACTIVO:0.0:SENECA:0.0:EXTRA:0.0
+surtidor:La monis del W:CORRIENTE:0.0:URANIO RADIOACTIVO:0.0:SENECA:0.0:EXTRA:0.0
+surtidor:Seneca la cabra:CORRIENTE:0.0:URANIO RADIOACTIVO:0.0:SENECA:0.0:EXTRA:0.0
+surtidor:La monis del W:CORRIENTE:0.0:URANIO RADIOACTIVO:0.0:SENECA:0.0:EXTRA:0.0
+empleado:Seneca la cabra:0
+empleado:Pelaito:0
+empleado:Logan:0
+empleado:La monis del W:0
+empleado:Vaqui campito:0
